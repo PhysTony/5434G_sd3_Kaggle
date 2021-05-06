@@ -1,0 +1,31 @@
+[I 19:01:56.345 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-05-06 19:01:57.703 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-06 19:01:57.703 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-06 19:01:57.703 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-06 19:01:57.703 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-06 19:01:57.703 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-06 19:01:57.704 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-06 19:01:57.704 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-06 19:01:57.704 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-05-06 19:01:57.704 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-05-06 19:01:57.704 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-06 19:01:57.704 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-06 19:01:57.704 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-05-06 19:01:57.713 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-05-06 19:01:57.714 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:01:57.724 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:01:57.726 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:01:57.727 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:01:57.727 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 19:01:57.727 NotebookApp] http://jupyter-phystony-2d5434g-5fsd3-5fkaggle-2dx7s2jtr8:8888/user/phystony-5434g_sd3_kaggle-x7s2jtr8/?token=...
+[I 19:01:57.727 NotebookApp]  or http://127.0.0.1:8888/user/phystony-5434g_sd3_kaggle-x7s2jtr8/?token=...
+[I 19:01:57.728 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:01:57.732 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:01:57.735 NotebookApp] 302 GET /user/phystony-5434g_sd3_kaggle-x7s2jtr8/ (10.0.1.13) 0.820000ms
+[I 19:01:59.479 NotebookApp] 302 GET /user/phystony-5434g_sd3_kaggle-x7s2jtr8/?token=cbdFV7iSRwCL_Kdn3Sg3gA (187.189.145.198) 0.800000ms
+[I 19:03:30.907 NotebookApp] Creating new directory in 
+[I 19:03:47.171 NotebookApp] Uploading file to /Getting Started With SQL and BigQuery/getting-started-with-sql-and-bigquery.ipynb
+[I 19:03:47.186 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 19:03:55.447 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
